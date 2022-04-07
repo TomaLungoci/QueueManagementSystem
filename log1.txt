@@ -1,0 +1,365 @@
+SIMULATION LOG
+
+Time: 0
+Waiting clients: (1,3,2) (4,15,2) (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 1
+Waiting clients: (1,3,2) (4,15,2) (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 2
+Waiting clients: (1,3,2) (4,15,2) (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 3
+Waiting clients: (4,15,2) (2,23,3) (3,29,3) 
+Queue: (1,3,2)    waiting time->2 size->1
+Queue:    waiting time->0 size->0
+
+
+Time: 4
+Waiting clients: (4,15,2) (2,23,3) (3,29,3) 
+Queue: (1,3,1)    waiting time->1 size->1
+Queue:    waiting time->0 size->0
+
+
+Time: 5
+Waiting clients: (4,15,2) (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 6
+Waiting clients: (4,15,2) (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 7
+Waiting clients: (4,15,2) (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 8
+Waiting clients: (4,15,2) (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 9
+Waiting clients: (4,15,2) (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 10
+Waiting clients: (4,15,2) (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 11
+Waiting clients: (4,15,2) (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 12
+Waiting clients: (4,15,2) (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 13
+Waiting clients: (4,15,2) (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 14
+Waiting clients: (4,15,2) (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 15
+Waiting clients: (2,23,3) (3,29,3) 
+Queue: (4,15,2)    waiting time->2 size->1
+Queue:    waiting time->0 size->0
+
+
+Time: 16
+Waiting clients: (2,23,3) (3,29,3) 
+Queue: (4,15,1)    waiting time->1 size->1
+Queue:    waiting time->0 size->0
+
+
+Time: 17
+Waiting clients: (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 18
+Waiting clients: (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 19
+Waiting clients: (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 20
+Waiting clients: (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 21
+Waiting clients: (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 22
+Waiting clients: (2,23,3) (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 23
+Waiting clients: (3,29,3) 
+Queue: (2,23,3)    waiting time->3 size->1
+Queue:    waiting time->0 size->0
+
+
+Time: 24
+Waiting clients: (3,29,3) 
+Queue: (2,23,2)    waiting time->2 size->1
+Queue:    waiting time->0 size->0
+
+
+Time: 25
+Waiting clients: (3,29,3) 
+Queue: (2,23,1)    waiting time->1 size->1
+Queue:    waiting time->0 size->0
+
+
+Time: 26
+Waiting clients: (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 27
+Waiting clients: (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 28
+Waiting clients: (3,29,3) 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 29
+Waiting clients: 
+Queue: (3,29,3)    waiting time->3 size->1
+Queue:    waiting time->0 size->0
+
+
+Time: 30
+Waiting clients: 
+Queue: (3,29,2)    waiting time->2 size->1
+Queue:    waiting time->0 size->0
+
+
+Time: 31
+Waiting clients: 
+Queue: (3,29,1)    waiting time->1 size->1
+Queue:    waiting time->0 size->0
+
+
+Time: 32
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 33
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 34
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 35
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 36
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 37
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 38
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 39
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 40
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 41
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 42
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 43
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 44
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 45
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 46
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 47
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 48
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 49
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 50
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 51
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 52
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 53
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 54
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 55
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 56
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 57
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 58
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Time: 59
+Waiting clients: 
+Queue:    waiting time->0 size->0
+Queue:    waiting time->0 size->0
+
+
+Peak hour: 3
+Avg service time: 2
+Average waiting time: 0
